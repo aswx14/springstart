@@ -18,6 +18,7 @@ This is a simple Spring Boot web application that displays a greeting message.
     Replace `YourName` with any name you want to display.
 
 ## Screenshots
-
+1. Default Screen: src/main/resources/static/app1.png
+2. Screen with parameter: src/main/resources/static/app2.png
 
 *Created: Afreen*
