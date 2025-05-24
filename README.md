@@ -17,8 +17,8 @@ This is a simple Spring Boot web application that displays a greeting message.
   http://localhost:8080/greeting?name=YourName
     Replace `YourName` with any name you want to display.
 
-## Screenshots
-1. Default Screen: screenshots/app1.png
-2. Screen with parameter: screenshots/app2.png
+## Print Screens
+![Default Screen](screenshots/app1.png)
+![Screen with Parameter](screenshots/app2.png)
 
 *Created: Afreen*
